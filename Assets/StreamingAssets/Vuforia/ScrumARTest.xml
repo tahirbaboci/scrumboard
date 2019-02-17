@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="9861989204018" size="5.000000 5.000000" />
+    <ImageTarget name="KITAP" size="5.000000 7.169540" />
+    <ImageTarget name="onedollarbill" size="5.000000 2.176471" />
+    <ImageTarget name="ZH" size="1.000000 0.716405" />
+    <ImageTarget name="Marine-splash_0" size="1.000000 0.827000" />
+    <ImageTarget name="22526334" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
